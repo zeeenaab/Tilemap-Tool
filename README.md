@@ -28,7 +28,7 @@ Tiles must be packed edge-to-edge (no spacing/margins). If the image size isn't 
 Requirements: CMake 3.16+, a C++17 compiler, git.
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/zeeenaab/Tilemap-Tool.git
 cd tilemap-tool
 cmake -S . -B build -DCMAKE_BUILD_TYPE=Release
 cmake --build build --config Release
