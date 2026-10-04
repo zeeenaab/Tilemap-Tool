@@ -2,7 +2,9 @@
 
 A small and simple tilemap editor (C++17, SDL3).
 I use this primarily for testing purposes.
-I can test tilesets as I'm creating them, quickly create tilemaps and get their .csv files with barely any prior setup.
+I can test tilesets as I'm creating them, quickly create tilemaps, and export corresponding .csv files with barely any prior setup.
+
+Head to Releases if you'd like to grab the executable directly.
 
 1. Load a tileset PNG and enter the tile size in pixels.
 2. The tileset is sliced into tiles numbered left-to-right, top-to-bottom (0, 1, 2, ...).
